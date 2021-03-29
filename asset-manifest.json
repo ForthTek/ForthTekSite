@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/forthtek-site/static/css/main.f1b176a8.chunk.css",
+    "main.js": "/forthtek-site/static/js/main.b0edf7af.chunk.js",
+    "main.js.map": "/forthtek-site/static/js/main.b0edf7af.chunk.js.map",
+    "runtime-main.js": "/forthtek-site/static/js/runtime-main.72bc4904.js",
+    "runtime-main.js.map": "/forthtek-site/static/js/runtime-main.72bc4904.js.map",
+    "static/js/2.1b6a1b6a.chunk.js": "/forthtek-site/static/js/2.1b6a1b6a.chunk.js",
+    "static/js/2.1b6a1b6a.chunk.js.map": "/forthtek-site/static/js/2.1b6a1b6a.chunk.js.map",
+    "index.html": "/forthtek-site/index.html",
+    "static/css/main.f1b176a8.chunk.css.map": "/forthtek-site/static/css/main.f1b176a8.chunk.css.map",
+    "static/js/2.1b6a1b6a.chunk.js.LICENSE.txt": "/forthtek-site/static/js/2.1b6a1b6a.chunk.js.LICENSE.txt",
+    "static/media/Video.de09f829.mp4": "/forthtek-site/static/media/Video.de09f829.mp4",
+    "static/media/jpg-1.jpg": "/forthtek-site/static/media/jpg-1.c7a6c590.jpg",
+    "static/media/svg-1.svg": "/forthtek-site/static/media/svg-1.d9f0854b.svg",
+    "static/media/svg-2.svg": "/forthtek-site/static/media/svg-2.18d828bf.svg",
+    "static/media/svg-3.svg": "/forthtek-site/static/media/svg-3.d2df0c86.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.72bc4904.js",
+    "static/js/2.1b6a1b6a.chunk.js",
+    "static/css/main.f1b176a8.chunk.css",
+    "static/js/main.b0edf7af.chunk.js"
+  ]
+}
