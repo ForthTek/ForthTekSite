@@ -22,7 +22,7 @@ export const homeObjTwo = {
     lightTextDesc: true,
     topLine: 'Our current project',
     headline: 'PictoHunt',
-    description: 'PictoHunt is a photo based social media platform that we have been commissioned to develop for Heriot Watt University. Our aim is to create an application which would allow users to share photos of locations and objects and have them rated and reviewed by other users.  ',
+    description: 'PictoHunt is a new innovative photo based gaming platform we are developing for Android and IOS, with a unique take on photo based social media. Unlike most photo platforms, which tend to emphasize user interaction, and subsequently succumb to the flaws of social pressure, PictoHunt does not allow photos of people. PictoHunt acts as more of a game, where likes on your posts increase your user score, or even winning challenges against your friends. Take photos and have fun, with PictoHunt',
     imgStart: false,
     img: require('../images/svg-1.svg').default,
     alt:'app',
